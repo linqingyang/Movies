@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![banner](https://raw.githubusercontent.com/FairyEver/d2-admin/master/doc/image/banner.png)
 
 <p align="center">
@@ -140,3 +141,7 @@ D2Admin 是完全开源免费的项目，旨在帮助开发者更方便地进行
 Copyright (c) 2018-present FairyEver
 
 ![](https://raw.githubusercontent.com/FairyEver/d2-admin/master/doc/image/give-a-star@2x.png)
+=======
+# Movies
+毕业设计电影推荐系统前端设计
+>>>>>>> 59a77bdd95a09af14532b4d6aed201db4b7912d5
